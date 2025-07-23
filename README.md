@@ -1,6 +1,6 @@
 # Liu Hui's π Algorithm
 Developed as part of my school assignment, this program is intended to visualize Liu Hui's π algorithm. </br>
-Built using Python, this project utilizes the Manim library. You can read more about it [here](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/new/main?readme=1). </br>
+Built using Python, this project utilizes the Manim library. You can read more about it [here](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/tree/main?tab=readme-ov-file#manim). </br>
 The video will be released on March 14, 2025 in celebration of PI day on Youtube. </br>
 
 ### Project Details + License
