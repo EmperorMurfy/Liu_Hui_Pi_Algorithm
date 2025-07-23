@@ -3,7 +3,7 @@ Developed as part of my school assignment, this program is intended to visualize
 Built using Python, this project utilizes the Manim library. You can read more about it [here](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/new/main?readme=1). </br>
 The video will be released on March 14, 2025 in celebration of PI day on Youtube. </br>
 
-### Project Details
+### Project Details + License
 - [circleArea.py](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/circleArea.py) -> circleArea, circleAreaFormula, nApproachesInfinity
 - [estimatingPi](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/estimatingPi.py) -> apothemFormula, dodecagonProcess, estimatingPi
 - [liuHuiInequality](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/liuHuiPiInequality.py) -> liuHuiPiInequality
@@ -16,6 +16,7 @@ manim circleArea.py circleArea -qh -p
 
 Though this repository was made in the hopes that someone might find it useful while Manim, </br>
 please do not reuse without permission. All code included is only meant as a learning reference. </br>
+For more details, please see [LICENSE](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/LICENSE). </br> 
  
 ### Manim
 "Manim is a community maintained Python library for creating mathematical animations." </br>
