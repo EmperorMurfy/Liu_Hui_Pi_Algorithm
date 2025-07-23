@@ -1,19 +1,18 @@
 # Liu Hui's π Algorithm
 Developed as part of my school assignment, this program is intended to visualize Liu Hui's π algorithm. </br>
-Built using Python, this project utilizes the Manim library. You can read more about it [here](). </br>
+Built using Python, this project utilizes the Manim library. You can read more about it [here](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/new/main?readme=1). </br>
 The video will be released on March 14, 2025 in celebration of PI day on Youtube. </br>
 
 ### Project Details
-- [circleArea.py]() -> circleArea, circleAreaFormula, nApproachesInfinity
-- [estimatingPi]() -> apothemFormula, dodecagonProcess, estimatingPi
-- [liuHuiInequality]() -> liuHuiPiInequality
+- [circleArea.py](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/circleArea.py) -> circleArea, circleAreaFormula, nApproachesInfinity
+- [estimatingPi](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/estimatingPi.py) -> apothemFormula, dodecagonProcess, estimatingPi
+- [liuHuiInequality](https://github.com/EmperorMurfy/Liu_Hui_Pi_Algorithm/blob/main/liuHuiPiInequality.py) -> liuHuiPiInequality
 
 As aforementioned, this project is developed using Python. I've seperated functions into seperate files. </br>
 To render a scene (ex: CircleArea), enter in your terminal:
 ```
 manim circleArea.py circleArea -qh -p
 ```
-VIDEO HERE
 
 Though this repository was made in the hopes that someone might find it useful while Manim, </br>
 please do not reuse without permission. All code included is only meant as a learning reference. </br>
