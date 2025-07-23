@@ -47,4 +47,4 @@ Overall, the creation of the final video took three days (and multiple all-night
 
 As a thank you for reading up to this point, you get exclusive early access to the video! </br> 
 👉 Watch it now: https://www.youtube.com/watch?v=g6Bx0x3jq58 </br>
-[![Watch the video](https://img.youtube.com/vi/g6Bx0x3jq58/0.jpg)]()
+[![Watch the video](https://img.youtube.com/vi/g6Bx0x3jq58/0.jpg)](https://www.youtube.com/watch?v=g6Bx0x3jq58)
